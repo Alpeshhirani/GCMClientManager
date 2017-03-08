@@ -1,9 +1,11 @@
 # GCMClientManager
-Easy way to get token id from GCM in android
 
+Easy way to get token id from GCM in android
+============
+```
 public String registation_id;
 String PROJECT_NUMBER = "Enter Your Project ID Here";
-
+```
 
 ```
 @Override
