@@ -1,4 +1,4 @@
-package com.presentmaam.xitix.Utils;
+package com.hirani.Utils;
 
 import android.app.Activity;
 import android.content.Context;
